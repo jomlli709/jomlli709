@@ -8,7 +8,7 @@ I am working towards by Bachelor of Interdisciplinary Studies Degree at the Univ
 
 * 🌍  I'm based in Florence, Alabama
 * ✉️  You can contact me at [jgambrell@una.edu](mailto:jgambrell@una.edu)
-* 🚀  I'm currently working on [My GitHub Profile Markdown](http://github.com/jomlli709)
+* 🚀  Check out my [portfolio](http://github.com/jomlli709)
 * 🧠  I'm learning Web Development and Principles of Management
 
 ### Skills
