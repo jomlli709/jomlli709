@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Development Noob
 --------------------
 
-I am working towards by Bachelor of Interdisciplinary Studies Degree at the University of North Alabama where I also work full time in the ITS department. I'm a mom of four and I am getting married this weekend in Hawaii! I used to own my own computer repair shop in Tennessee for 7 years and before that worked in the IT department for the Nashville Predators.
+I am working towards by Bachelor of Interdisciplinary Studies Degree at the University of North Alabama where I also work full time in the ITS department. I used to own my own computer repair shop in Tennessee for 7 years and before that I worked in the IT department for the Nashville Predators.
 
 * 🌍  I'm based in Florence, Alabama
 * ✉️  You can contact me at [jgambrell@una.edu](mailto:jgambrell@una.edu)
